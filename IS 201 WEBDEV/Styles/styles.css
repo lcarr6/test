@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: goldenrod;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-image: url(../img/Chungus.jpg);
+}   
+
+a {
+    color: white;
+    background-color: green;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    border: 5px solid orange;
+    padding: 5px;
+    height: 250 px;
+    /* margin: auto;
+       display: block; */
+}
+
+.rizz {
+    font-family: chiller, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: hotpink;
+    border: 5px dashed yellow;
+    font-size: x400;
+    font-weight: bolder;
+    background-color: limegreen;
+}
+
+.rizz:hover {
+    font-size: 450%;
+    color: red;
+    border: 5px solid cyan;
+}
+
+li {
+    width: fit-content;
+}
+
+li:hover{
+    text-decoration: underline;
+    background-color: darkgrey;
+}

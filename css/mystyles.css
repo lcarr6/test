@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: grey; 
+}
+h1, h2, h3, .subheading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important; 
+}
+a:hover{
+    color: orangered !important;
+}
